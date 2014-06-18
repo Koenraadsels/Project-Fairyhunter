@@ -1,6 +1,10 @@
+//Ik kwam even langs om pizzafoto te zeggen - Koen
+
 var canvas = document.getElementById('canvas');
 var ctx = canvas.getContext('2d');
  
+
+
 canvas.width = 500;
 canvas.height =300;
  
